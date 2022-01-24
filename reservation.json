@@ -1,0 +1,409 @@
+{
+    "header": [
+        {
+            "topbar": [
+                {
+                    "left" : [
+                        {
+                            "phone":{
+                                "text": "phone no:",
+                                "number": " +00 1234 567",
+                                "url": "https://preview.colorlib.com/theme/tasteit/#"
+                            },
+                            "email":{
+                                "text": "or email us:",
+                                "email": " emailsample@email.com",
+                                "url": "https://preview.colorlib.com/theme/tasteit/#"
+                            } 
+                        }
+                    ],
+                    "right" : {
+                        "date": {
+                            "tanggal": "Mon - Fri / 9:00-21:00, Sat - Sun / 10:00-20:00"
+                        },
+                        "socmed": [
+                            {
+                                "icon": "fa fa-facebook",
+                                "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                            },
+                            {
+                                "icon": "fa fa-twiter",
+                                "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                            },
+                            {
+                                "icon": "fa fa-instagram",
+                                "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                            },
+                            {
+                                "icon": "fa fa-dribbble",
+                                "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "mainbar" : [
+                {
+                    "mainkiri" : 
+                    {
+                        "judul" :{
+                            "text" : "taste.it" ,
+                            "url" : "https://preview.colorlib.com/theme/tasteit/index.html"
+                        }
+                    },
+                    "mainkanan" : [
+                        {
+                            "text" : "home",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/index.html"
+                        },
+                        {
+                            "text" : "about",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/about.html"
+                        },
+                        {
+                            "text" : "cheef",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/chef.html"
+                        },
+                        {
+                            "text" : "menu",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/menu.html"
+                        },
+                        {
+                            "text" : "revervation",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/reservation.html"
+                        },
+                        {
+                            "text" : "blog",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/blog.html"
+                        },
+                        {
+                            "text" : "contact",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/contact.html"
+                        }
+
+                    ]
+                
+                }
+            ],
+            "slider":
+                {
+                    "img" : "images/xbg_5.jpg.pagespeed.ic.Gns2DKGkM1.webp",
+                    "h1" :"BOOK A TABLE NOW",
+                    "breadcrumb" :[
+                        {
+                            "text" : "HOME",
+                            "url"  : "https://preview.colorlib.com/theme/tasteit/index.html",
+                            "icon" : "chevron-right"
+                        },
+                        {
+                            "text" : "RESERVATION",
+                            "url" : null,
+                            "icon" : "chevron-right"
+                        }
+
+                    ]
+                }
+        }
+    ],
+    "body":[
+        {
+            "booktable" : [
+                {
+                    "judul" : "BOOK YOUR TABLE",
+                    "attribut" :[
+                        {
+                            "placeholder" : "Name",
+                            "type" : "text"
+                        },
+                        {
+                            "placeholder" : "Email",
+                            "type" : "text"
+                        },
+                        {
+                            "placeholder" : "Phone",
+                            "type" : "text"
+                        },
+                        {
+                            "placeholder" : "Check-In",
+                            "type" : "text",
+                            "icon" : "date"
+                        },
+                        {
+                            "placeholder" : "Time",
+                            "type" : "text",
+                            "icon" : "clock",
+                            "items" : [
+                                {
+                                    "text" : "12:00am"
+                                },
+                                {
+                                    "text" : "12:30am"
+                                },
+                                {
+                                    "text" : "1:00am"
+                                },
+                                {
+                                    "text" : "1:30am"
+                                },
+                                {
+                                    "text" : "2:00am"
+                                },
+                                {
+                                    "text" : "2:30am"
+                                },
+                                {
+                                    "text" : "3:00am"
+                                },
+                                {
+                                    "text" : "3.30am"
+                                },
+                                {
+                                    "text" : "4:00am"
+                                },
+                                {
+                                    "text" : "4:30am"
+                                },
+                                {
+                                    "text" : "5:00am"
+                                },
+                                {
+                                    "text" : "5:30am"
+                                },
+                                {
+                                    "text" : "6:30am"
+                                },
+                                {
+                                    "text" : "7:30am"
+                                },
+                                {
+                                    "text" : "8:00am"
+                                },
+                                {
+                                    "text" : "8:30am"
+                                },
+                                {
+                                    "text" : "9:00am"
+                                },
+                                {
+                                    "text" : "9:30am"
+                                },
+                                {
+                                    "text" : "10:00am"
+                                },
+                                {
+                                    "text" : "10:30am"
+                                },
+                                {
+                                    "text" : "11:00am"
+                                },
+                                {
+                                    "text" : "11:30am"
+                                },
+                                {
+                                    "text" : "12:00am"
+                                },
+                                {
+                                    "text" : "12:30am"
+                                },
+                                {
+                                    "text" : "1:00pm"
+                                },
+                                {
+                                    "text" : "1:30pm"
+                                },
+                                {
+                                    "text" : "2:00pm"
+                                },
+                                {
+                                    "text" : "2:30pm"
+                                },
+                                {
+                                    "text" : "3:00pm"
+                                },
+                                {
+                                    "text" : "3:30pm"
+                                },
+                                {
+                                    "text" : "4:00pm"
+                                },
+                                {
+                                    "text" : "4:30pm"
+                                },
+                                {
+                                    "text" : "5:00pm"
+                                },
+                                {
+                                    "text" : "5:30pm"
+                                },
+                                {
+                                    "text" : "6:00pm"
+                                },
+                                {
+                                    "text" : "6:30pm"
+                                },
+                                {
+                                    "text" : "7:00pm"
+                                },
+                                {
+                                    "text" : "7:30pm"
+                                },
+                                {
+                                    "text" : "8:00pm"
+                                },
+                                {
+                                    "text" : "8:30pm"
+                                },
+                                {
+                                    "text" : "9:00pm"
+                                },
+                                {
+                                    "text" : "9:30pm"
+                                },
+                                {
+                                    "text" : "10:00pm"
+                                },
+                                {
+                                    "text" : "10:30pm"
+                                },
+                                {
+                                    "text" : "11:00pm"
+                                },
+                                {
+                                    "text" : "11:30pm"
+                                }
+                                
+                            ]
+
+                        },
+                        {
+                            "placeholder" : "name",
+                            "icon" : "chevron-down",
+                            "attribut" : {
+                                "text" : "Guest"
+                            }
+                        },
+                        {
+                            "text" : "Book Your Table Now",
+                            "type" : "button"
+                        }
+                    ]
+                }
+            ],
+            "sectionsatu" : {
+                "imgpertama" : "images/bg_6.jpg",
+                "imgkedua" : "images/bg_4.jpg",
+                "title" : {
+                    "span" : "This is our secrets",
+                    "h2" : "Perfect Ingredients"
+                },
+                "desc" : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.",
+                "button" :{
+                    "text" :"Learn more",
+                    "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                }
+        
+            }
+        }
+    ],
+    "footer" : [
+        {
+            "atas" : [
+                {
+                    "judul" : "Taste.it",
+                    "decs" :"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove",
+                    "sosmed" : [
+                        {
+                            "icon" : "fa fa-twiter",
+                            "name" : "twiter",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                        },
+                        {
+                            "icon" : "fa fa-facebook",
+                            "name" : "facebook",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                        },
+                        {
+                            "icon" : "fa fa-instagram",
+                            "name" : "instagram",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                        }
+                    ]
+                },
+                {
+                    "judul" : "Open Hours",
+                    "day" :[
+                        {
+                            "text" : "monday",
+                            "waktu" : "9:00 - 24.00"
+                        },
+                        {
+                            "text" : "tuesday",
+                            "waktu" :"9:00 - 24.00"
+                        },
+                        {
+                            "text" : "wednesday",
+                            "waktu" : "9:00 - 24.00"
+                        },
+                        {
+                            "text" : "thursday",
+                            "waktu" : "9:00 - 24.00"
+                        },
+                        {
+                            "text" : "friday",
+                            "waktu" : "9:00 - 02.00"
+                        },
+                        {
+                            "text" : "saturday",
+                            "waktu" : "9:00 - 02.00"
+                        },
+                        {
+                            "text" : "sunday",
+                            "waktu" : "closed"
+                        }
+                    ]
+                },
+                {
+                    "judul" : "Instagram",
+                    "item" : [
+                        {
+                            "atas" : {
+                                "imgsatu" : "images/insta-1.jpg",
+                                "imgdua" : "images/insta-2.jpg",
+                                "imgtiga" : "images/insta-3.jpg"
+                            },
+                            "bawah" : {
+                                "imgsatu" : "images/insta-4.jpg",
+                                "imgdua" : "images/insta-5.jpg",
+                                "imgtiga" : "images/insta-6.jpg"
+                            }
+                        }
+                    ],
+                    "urlimg" : "https://preview.colorlib.com/theme/tasteit/index.html#"
+                },
+                {
+                    "judul" : "Newsletter",
+                    "decs" : "Far far away, behind the word mountains, far from the countries.",
+                    "placeholder" : "Enter email address",
+                    "button" : {
+                        "text" : "Subscribe"
+                    }
+
+        
+                }
+            ]
+        },
+        {
+            "bawah" : 
+            {
+                "text" : "Copyright ©",
+                "attribut" : "2022 All rights reserved | This template is made with",
+                "p" : "by",
+                "icon" : "heart",
+                "source" :{
+                    "text" : "Colorlib",
+                    "url" : "https://colorlib.com/"
+                }
+            }
+        }
+    ]
+}

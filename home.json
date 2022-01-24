@@ -1,0 +1,766 @@
+{
+    "header": [
+        {
+            "topbar": [
+                {
+                    "left" : [
+                        {
+                            "phone":{
+                                "text": "phone no:",
+                                "number": " +00 1234 567",
+                                "url": "https://preview.colorlib.com/theme/tasteit/#"
+                            },
+                            "email":{
+                                "text": "or email us:",
+                                "email": " emailsample@email.com",
+                                "url": "https://preview.colorlib.com/theme/tasteit/#"
+                            } 
+                        }
+                    ],
+                    "right" : {
+                        "date": {
+                            "tanggal": "Mon - Fri / 9:00-21:00, Sat - Sun / 10:00-20:00"
+                        },
+                        "socmed": [
+                            {
+                                "icon": "fa fa-facebook",
+                                "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                            },
+                            {
+                                "icon": "fa fa-twiter",
+                                "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                            },
+                            {
+                                "icon": "fa fa-instagram",
+                                "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                            },
+                            {
+                                "icon": "fa fa-dribbble",
+                                "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "mainbar" : [
+                {
+                    "mainkiri" : 
+                    {
+                        "judul" :{
+                            "text" : "taste.it" ,
+                            "url" : "https://preview.colorlib.com/theme/tasteit/index.html"
+                        }
+                    },
+                    "mainkanan" : [
+                        {
+                            "text" : "home",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/index.html"
+                        },
+                        {
+                            "text" : "about",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/about.html"
+                        },
+                        {
+                            "text" : "cheef",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/chef.html"
+                        },
+                        {
+                            "text" : "menu",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/menu.html"
+                        },
+                        {
+                            "text" : "revervation",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/reservation.html"
+                        },
+                        {
+                            "text" : "blog",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/blog.html"
+                        },
+                        {
+                            "text" : "contact",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/contact.html"
+                        }
+
+                    ]
+                
+                }
+            ],
+            "slider": [
+                {
+                    "current": "1/2",
+                    "item":{
+                        "img": "1",
+                        "imgurl": "images/xbg_1.jpg.pagespeed.ic.hwIKDt0ilI.webp",
+                        "subheading": "Taste.it Restaurant",
+                        "h1": "Cooking Since",
+                        "subheading2": "1958",
+                        "ico": "fa fa-dot"
+                    }
+                },
+                {
+                    "current": "2/2",
+                    "item":{
+                        "img": "2",
+                        "imgurl": "images/xbg_1.jpg.pagespeed.ic.hwIKDt0ilI.webp",
+                        "subheading": "Taste.it Restaurant",
+                        "h1": "Cooking Since",
+                        "subheading2": "1958",
+                        "ico": "fa fa-dot"
+                    }
+                }
+            ]
+        }
+    ], 
+    "body" : [
+        {
+            "content" : [
+                {
+                    "kiri" : [
+                        {
+                            "judul" : "BOOK YOUR TABLE",
+                            "attribut" :[
+                                {
+                                    "placeholder" : "Name",
+                                    "type" : "text"
+                                },
+                                {
+                                    "placeholder" : "Email",
+                                    "type" : "text"
+                                },
+                                {
+                                    "placeholder" : "Phone",
+                                    "type" : "text"
+                                },
+                                {
+                                    "placeholder" : "Check-In",
+                                    "type" : "text",
+                                    "icon" : "date"
+                                },
+                                {
+                                    "placeholder" : "Time",
+                                    "type" : "text",
+                                    "icon" : "clock",
+                                    "items" : [
+                                        {
+                                            "text" : "12:00am"
+                                        },
+                                        {
+                                            "text" : "12:30am"
+                                        },
+                                        {
+                                            "text" : "1:00am"
+                                        },
+                                        {
+                                            "text" : "1:30am"
+                                        },
+                                        {
+                                            "text" : "2:00am"
+                                        },
+                                        {
+                                            "text" : "2:30am"
+                                        },
+                                        {
+                                            "text" : "3:00am"
+                                        },
+                                        {
+                                            "text" : "3.30am"
+                                        },
+                                        {
+                                            "text" : "4:00am"
+                                        },
+                                        {
+                                            "text" : "4:30am"
+                                        },
+                                        {
+                                            "text" : "5:00am"
+                                        },
+                                        {
+                                            "text" : "5:30am"
+                                        },
+                                        {
+                                            "text" : "6:30am"
+                                        },
+                                        {
+                                            "text" : "7:30am"
+                                        },
+                                        {
+                                            "text" : "8:00am"
+                                        },
+                                        {
+                                            "text" : "8:30am"
+                                        },
+                                        {
+                                            "text" : "9:00am"
+                                        },
+                                        {
+                                            "text" : "9:30am"
+                                        },
+                                        {
+                                            "text" : "10:00am"
+                                        },
+                                        {
+                                            "text" : "10:30am"
+                                        },
+                                        {
+                                            "text" : "11:00am"
+                                        },
+                                        {
+                                            "text" : "11:30am"
+                                        },
+                                        {
+                                            "text" : "12:00am"
+                                        },
+                                        {
+                                            "text" : "12:30am"
+                                        },
+                                        {
+                                            "text" : "1:00pm"
+                                        },
+                                        {
+                                            "text" : "1:30pm"
+                                        },
+                                        {
+                                            "text" : "2:00pm"
+                                        },
+                                        {
+                                            "text" : "2:30pm"
+                                        },
+                                        {
+                                            "text" : "3:00pm"
+                                        },
+                                        {
+                                            "text" : "3:30pm"
+                                        },
+                                        {
+                                            "text" : "4:00pm"
+                                        },
+                                        {
+                                            "text" : "4:30pm"
+                                        },
+                                        {
+                                            "text" : "5:00pm"
+                                        },
+                                        {
+                                            "text" : "5:30pm"
+                                        },
+                                        {
+                                            "text" : "6:00pm"
+                                        },
+                                        {
+                                            "text" : "6:30pm"
+                                        },
+                                        {
+                                            "text" : "7:00pm"
+                                        },
+                                        {
+                                            "text" : "7:30pm"
+                                        },
+                                        {
+                                            "text" : "8:00pm"
+                                        },
+                                        {
+                                            "text" : "8:30pm"
+                                        },
+                                        {
+                                            "text" : "9:00pm"
+                                        },
+                                        {
+                                            "text" : "9:30pm"
+                                        },
+                                        {
+                                            "text" : "10:00pm"
+                                        },
+                                        {
+                                            "text" : "10:30pm"
+                                        },
+                                        {
+                                            "text" : "11:00pm"
+                                        },
+                                        {
+                                            "text" : "11:30pm"
+                                        }
+                                        
+                                    ]
+        
+                                },
+                                {
+                                    "placeholder" : "name",
+                                    "icon" : "chevron-down",
+                                    "attribut" : {
+                                        "text" : "Guest"
+                                    }
+                                },
+                                {
+                                    "text" : "Book Your Table Now",
+                                    "type" : "button"
+                                }
+                            ]
+                        }
+                    ],
+                    "kanan" : {
+                        "background img" : "images/about.jpg",
+                        "titel" : {
+                            "span" : "About",
+                            "h2" : "Welcome to Taste.it"
+                        },
+                        "ket" : "On her way she met a copy. The copy warned the Little Blind Text,that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word and and the Little Blind Text should turn around and return to its own, safe country. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth."
+                    }
+                }
+            ],
+            "parallax satu" : {
+                "background img" : "images/bg_3.jpg",
+                "title" : {
+                    "span" : "Now Booking",
+                    "h2" : "Private Dinners & Happy Hours"
+                }
+            },
+            "menu" :{
+                "titel" : {
+                    "span" :"Specialties",
+                    " h2" : "Our Menu"
+                },
+                "datamenu" :[
+                    {
+                        "breakfast" :[
+                            {
+                               "img": "food",
+                               "judul" : "bef roast source",
+                                "desc" : "meat, potatoes, rice, tomatoe",
+                                "type price" : "dolar",
+                                "price" : 29
+                            },
+                            {
+                                "img": "food",
+                                "judul" : "bef roast source",
+                                 "desc" : "meat, potatoes, rice, tomatoe",
+                                 "type price" : "dolar",
+                                 "price" : 29
+                             },
+                             {
+                                "img": "food",
+                                "judul" : "bef roast source",
+                                 "desc" : "meat, potatoes, rice, tomatoe",
+                                 "type price" : "dolar",
+                                 "price" : 29
+                             }
+                        
+                        ],
+                        "lunch" : [
+                            {
+                                "img": "food",
+                                "judul" : "bef roast source",
+                                 "desc" : "meat, potatoes, rice, tomatoe",
+                                 "type price" : "dolar",
+                                 "price" : 29
+                             },
+                             {
+                                 "img": "food",
+                                 "judul" : "bef roast source",
+                                  "desc" : "meat, potatoes, rice, tomatoe",
+                                  "type price" : "dolar",
+                                  "price" : 29
+                              },
+                              {
+                                 "img": "food",
+                                 "judul" : "bef roast source",
+                                  "desc" : "meat, potatoes, rice, tomatoe",
+                                  "type price" : "dolar",
+                                  "price" : 29
+                              }
+                        ],
+                        "dinner" :[
+                            {
+                                "img": "food",
+                                "judul" : "bef roast source",
+                                 "desc" : "meat, potatoes, rice, tomatoe",
+                                 "type price" : "dolar",
+                                 "price" : 29
+                             },
+                             {
+                                 "img": "food",
+                                 "judul" : "bef roast source",
+                                  "desc" : "meat, potatoes, rice, tomatoe",
+                                  "type price" : "dolar",
+                                  "price" : 29
+                              },
+                              {
+                                 "img": "food",
+                                 "judul" : "bef roast source",
+                                  "desc" : "meat, potatoes, rice, tomatoe",
+                                  "type price" : "dolar",
+                                  "price" : 29
+                              }
+                        ],
+                        "dessert":[
+                            {
+                                "img": "food",
+                                "judul" : "bef roast source",
+                                 "desc" : "meat, potatoes, rice, tomatoe",
+                                 "type price" : "dolar",
+                                 "price" : 29
+                             },
+                             {
+                                 "img": "food",
+                                 "judul" : "bef roast source",
+                                  "desc" : "meat, potatoes, rice, tomatoe",
+                                  "type price" : "dolar",
+                                  "price" : 29
+                              },
+                              {
+                                 "img": "food",
+                                 "judul" : "bef roast source",
+                                  "desc" : "meat, potatoes, rice, tomatoe",
+                                  "type price" : "dolar",
+                                  "price" : 29
+                              }
+                        ],
+                        "wine card" :[
+                            {
+                                "img": "food",
+                                "judul" : "bef roast source",
+                                 "desc" : "meat, potatoes, rice, tomatoe",
+                                 "type price" : "dolar",
+                                 "price" : 29
+                             },
+                             {
+                                 "img": "food",
+                                 "judul" : "bef roast source",
+                                  "desc" : "meat, potatoes, rice, tomatoe",
+                                  "type price" : "dolar",
+                                  "price" : 29
+                              },
+                              {
+                                 "img": "food",
+                                 "judul" : "bef roast source",
+                                  "desc" : "meat, potatoes, rice, tomatoe",
+                                  "type price" : "dolar",
+                                  "price" : 29
+                              }
+                        ],
+                        "drinks & tea" :[
+                            {
+                                "img": "food",
+                                "judul" : "bef roast source",
+                                 "desc" : "meat, potatoes, rice, tomatoe",
+                                 "type price" : "dolar",
+                                 "price" : 29
+                             },
+                             {
+                                 "img": "food",
+                                 "judul" : "bef roast source",
+                                  "desc" : "meat, potatoes, rice, tomatoe",
+                                  "type price" : "dolar",
+                                  "price" : 29
+                              },
+                              {
+                                 "img": "food",
+                                 "judul" : "bef roast source",
+                                  "desc" : "meat, potatoes, rice, tomatoe",
+                                  "type price" : "dolar",
+                                  "price" : 29
+                              }
+                        ]
+                        
+                    }
+                ]
+            },
+            "parallax dua"  :{
+                "background img" :"images/bg_5.jpg",
+                "title" : {
+                    "span" : "Testimony",
+                    "h2" : "Happy Customer"
+                },
+                "slider" : {
+                    "currendid" : "1",
+                    "review" : [
+                        {
+                            "id" : "1",
+                            "desc" :"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+                            "profile" : {
+                                "img" : "images/person_1.jpg",
+                                "icon" : "quote"
+                            },
+                            "name" : "John Gustavo",
+                            "position" :"Customer"
+        
+                        },
+                        {
+                            "id" : "2",
+                            "desc" :"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+                            "profile" : {
+                                "img" : "images/person_1.jpg",
+                                "icon" : "quote"
+                            },
+                            "name" : "John Gustavo",
+                            "position" :"Customer"
+        
+                        },
+                        {
+                            "id" : "3",
+                            "desc" :"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+                            "profile" : {
+                                "img" : "images/person_1.jpg",
+                                "icon" : "quote"
+                            },
+                            "name" : "John Gustavo",
+                            "position" :"Customer"
+        
+                        },
+                        {
+                            "id" : "4",
+                            "desc" :"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+                            "profile" : {
+                                "img" : "images/person_1.jpg",
+                                "icon" : "quote"
+                            },
+                            "name" : "John Gustavo",
+                            "position" :"Customer"
+        
+                        },
+                        {
+                            "id" : "5",
+                            "desc" :"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+                            "profile" : {
+                                "img" : "images/person_1.jpg",
+                                "icon" : "quote"
+                            },
+                            "name" : "John Gustavo",
+                            "position" :"Customer"
+        
+                        }
+                    ]
+        
+                }
+        
+            },
+            "chef" : {
+                "title" : {
+                    "span" : "Chef",
+                    "h2" :"Our Master Chef"
+                },
+                "DataChef" :[
+                    {
+                        "img": "person",
+                        "nama" : "John Gustavo",
+                        "posisi" : "CEO, Co Founder",
+                        "ket" : "I am an ambitious workaholic, but apart from that, pretty simple person."
+                    },
+                    {
+                        "img": "person",
+                        "nama" : "Michelle Fraulen",
+                        "posisi" : "Head Chef",
+                        "ket" : "I am an ambitious workaholic, but apart from that, pretty simple person."
+                    },
+                    {
+                        "img": "person",
+                        "nama" : "Alfred Smith",
+                        "posisi" : "Chef Cook",
+                        "ket" : "I am an ambitious workaholic, but apart from that, pretty simple person."
+                    },
+                    {
+                        "img": "person",
+                        "nama" : "Antonio Santibanez",
+                        "posisi" : "Chef Cook",
+                        "ket" : "I am an ambitious workaholic, but apart from that, pretty simple person."
+                    }
+                ]
+            },
+            "sectionsatu" : {
+                "imgpertama" : "images/bg_6.jpg",
+                "imgkedua" : "images/bg_4.jpg",
+                "title" : {
+                    "span" : "This is our secrets",
+                    "h2" : "Perfect Ingredients"
+                },
+                "desc" : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.",
+                "button" :{
+                    "text" :"Learn more",
+                    "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                }
+        
+            },
+            "artikel":{
+                "judul" : "blog",
+                "cardartikel" : [
+                    {
+                        "time" : {
+                            "text" : "August 3, 2020",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                        },
+                        "atribut" :{
+                            "text" :"admin",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                        },
+                        "judulartikel" : {
+                            "text" : "BEven the all-powerful Pointing has no control about the blind texts",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                        },
+                        "button" : {
+                            "text" :"Read more",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/index.html#"
+                        },
+                        "comment" :{
+                            "icon" : "komentar",
+                            "qty" : 3,
+                            "url" : "https://preview.colorlib.com/theme/tasteit/index.html#"
+                        }
+                    },
+                    {
+                        "time" : {
+                            "text" : "August 3, 2020",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                        },
+                        "atribut" :{
+                            "text" :"admin",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                        },
+                        "judulartikel" : {
+                            "text" : "BEven the all-powerful Pointing has no control about the blind texts",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                        },
+                        "button" : {
+                            "text" :"Read more",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/index.html#"
+                        },
+                        "comment" :{
+                            "icon" : "komentar",
+                            "qty" : 3,
+                            "url" : "https://preview.colorlib.com/theme/tasteit/index.html#"
+                        }
+                    },
+                    {
+                        "time" : {
+                            "text" : "August 3, 2020",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                        },
+                        "atribut" :{
+                            "text" :"admin",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                        },
+                        "judulartikel" : {
+                            "text" : "BEven the all-powerful Pointing has no control about the blind texts",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                        },
+                        "button" : {
+                            "text" :"Read more",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/index.html#"
+                        },
+                        "comment" :{
+                            "icon" : "komentar",
+                            "qty" : 3,
+                            "url" : "https://preview.colorlib.com/theme/tasteit/index.html#"
+                        }
+                    }
+                ]
+            },
+            "sectiondua" : {
+                "title" : "We Make Delicious & Nutritious Food",
+                "button" : {
+                    "text" : "Book A Table Now",
+                    "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                }
+            }
+        }
+    ],
+    "footer" : [
+        {
+            "atas" : [
+                {
+                    "judul" : "Taste.it",
+                    "decs" :"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove",
+                    "sosmed" : [
+                        {
+                            "icon" : "fa fa-twiter",
+                            "name" : "twiter",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                        },
+                        {
+                            "icon" : "fa fa-facebook",
+                            "name" : "facebook",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                        },
+                        {
+                            "icon" : "fa fa-instagram",
+                            "name" : "instagram",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                        }
+                    ]
+                },
+                {
+                    "judul" : "Open Hours",
+                    "day" :[
+                        {
+                            "text" : "monday",
+                            "waktu" : "9:00 - 24.00"
+                        },
+                        {
+                            "text" : "tuesday",
+                            "waktu" :"9:00 - 24.00"
+                        },
+                        {
+                            "text" : "wednesday",
+                            "waktu" : "9:00 - 24.00"
+                        },
+                        {
+                            "text" : "thursday",
+                            "waktu" : "9:00 - 24.00"
+                        },
+                        {
+                            "text" : "friday",
+                            "waktu" : "9:00 - 02.00"
+                        },
+                        {
+                            "text" : "saturday",
+                            "waktu" : "9:00 - 02.00"
+                        },
+                        {
+                            "text" : "sunday",
+                            "waktu" : "closed"
+                        }
+                    ]
+                },
+                {
+                    "judul" : "Instagram",
+                    "item" : [
+                        {
+                            "atas" : {
+                                "imgsatu" : "images/insta-1.jpg",
+                                "imgdua" : "images/insta-2.jpg",
+                                "imgtiga" : "images/insta-3.jpg"
+                            },
+                            "bawah" : {
+                                "imgsatu" : "images/insta-4.jpg",
+                                "imgdua" : "images/insta-5.jpg",
+                                "imgtiga" : "images/insta-6.jpg"
+                            }
+                        }
+                    ],
+                    "urlimg" : "https://preview.colorlib.com/theme/tasteit/index.html#"
+                },
+                {
+                    "judul" : "Newsletter",
+                    "decs" : "Far far away, behind the word mountains, far from the countries.",
+                    "placeholder" : "Enter email address",
+                    "button" : {
+                        "text" : "Subscribe"
+                    }
+
+        
+                }
+            ]
+        },
+        {
+            "bawah" : 
+            {
+                "text" : "Copyright ©",
+                "attribut" : "2022 All rights reserved | This template is made with",
+                "p" : "by",
+                "icon" : "heart",
+                "source" :{
+                    "text" : "Colorlib",
+                    "url" : "https://colorlib.com/"
+                }
+            }
+        }
+    ]
+}

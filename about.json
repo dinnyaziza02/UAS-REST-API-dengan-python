@@ -1,0 +1,325 @@
+{
+    "header": [
+        {
+            "topbar": [
+                {
+                    "left" : [
+                        {
+                            "phone":{
+                                "text": "phone no:",
+                                "number": " +00 1234 567",
+                                "url": "https://preview.colorlib.com/theme/tasteit/#"
+                            },
+                            "email":{
+                                "text": "or email us:",
+                                "email": " emailsample@email.com",
+                                "url": "https://preview.colorlib.com/theme/tasteit/#"
+                            } 
+                        }
+                    ],
+                    "right" : {
+                        "date": {
+                            "tanggal": "Mon - Fri / 9:00-21:00, Sat - Sun / 10:00-20:00"
+                        },
+                        "socmed": [
+                            {
+                                "icon": "fa fa-facebook",
+                                "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                            },
+                            {
+                                "icon": "fa fa-twiter",
+                                "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                            },
+                            {
+                                "icon": "fa fa-instagram",
+                                "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                            },
+                            {
+                                "icon": "fa fa-dribbble",
+                                "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "mainbar" : [
+                {
+                    "mainkiri" : 
+                    {
+                        "judul" :{
+                            "text" : "taste.it" ,
+                            "url" : "https://preview.colorlib.com/theme/tasteit/index.html"
+                        }
+                    },
+                    "mainkanan" : [
+                        {
+                            "text" : "home",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/index.html"
+                        },
+                        {
+                            "text" : "about",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/about.html"
+                        },
+                        {
+                            "text" : "cheef",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/chef.html"
+                        },
+                        {
+                            "text" : "menu",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/menu.html"
+                        },
+                        {
+                            "text" : "revervation",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/reservation.html"
+                        },
+                        {
+                            "text" : "blog",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/blog.html"
+                        },
+                        {
+                            "text" : "contact",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/contact.html"
+                        }
+
+                    ]
+                
+                }
+            ],
+            "slider":
+                {
+                    "img" : "images/xbg_5.jpg.pagespeed.ic.Gns2DKGkM1.webp",
+                    "h1" :"About",
+                    "breadcrumb" :[
+                        {
+                            "text" : "HOME",
+                            "url"  : "https://preview.colorlib.com/theme/tasteit/index.html",
+                            "icon" : "chevron-right"
+                        },
+                        {
+                            "text" : "ABOUT",
+                            "url" : null,
+                            "icon" : "chevron-right"
+                        }
+
+                    ]
+                }
+        }
+    ],
+    "body" : [
+        {
+            "sectionsatu" : {
+                "imgpertama" : "images/bg_6.jpg",
+                "imgkedua" : "images/bg_4.jpg",
+                "title" : {
+                    "span" : "This is our secrets",
+                    "h2" : "Perfect Ingredients"
+                },
+                "desc" : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.",
+                "button" :{
+                    "text" :"Learn more",
+                    "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                }
+        
+            },
+            "count": {
+                "background" : "images/xbg_4.jpg.pagespeed.ic.nNwkTB486x.webp",
+                "delay": "1000ms",
+                "item": [
+                    {
+                        "total": "100",
+                        "text": "Tasty Dishes"
+                    },
+                    {
+                        "total": "4000",
+                        "text": "Dishes Served"
+                    },
+                    {
+                        "total": "10",
+                        "text": "Restaurants"
+                    },
+                    {
+                        "total": "10,000",
+                        "text": "Happy Customers"
+                    }
+                ]
+            },
+            "sectiondua" : {
+                "title" : "We Make Delicious & Nutritious Food",
+                "button" : {
+                    "text" : "Book A Table Now",
+                    "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                }
+            },
+            "parallax dua"  :{
+                "background img" :"images/bg_5.jpg",
+                "title" : {
+                    "span" : "Testimony",
+                    "h2" : "Happy Customer"
+                },
+                "slider" : {
+                    "currendid" : "1",
+                    "review" : [
+                        {
+                            "id" : "1",
+                            "desc" :"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+                            "profile" : {
+                                "img" : "images/person_1.jpg",
+                                "icon" : "quote"
+                            },
+                            "name" : "John Gustavo",
+                            "position" :"Customer"
+        
+                        },
+                        {
+                            "id" : "2",
+                            "desc" :"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+                            "profile" : {
+                                "img" : "images/person_1.jpg",
+                                "icon" : "quote"
+                            },
+                            "name" : "John Gustavo",
+                            "position" :"Customer"
+        
+                        },
+                        {
+                            "id" : "3",
+                            "desc" :"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+                            "profile" : {
+                                "img" : "images/person_1.jpg",
+                                "icon" : "quote"
+                            },
+                            "name" : "John Gustavo",
+                            "position" :"Customer"
+        
+                        },
+                        {
+                            "id" : "4",
+                            "desc" :"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+                            "profile" : {
+                                "img" : "images/person_1.jpg",
+                                "icon" : "quote"
+                            },
+                            "name" : "John Gustavo",
+                            "position" :"Customer"
+        
+                        },
+                        {
+                            "id" : "5",
+                            "desc" :"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+                            "profile" : {
+                                "img" : "images/person_1.jpg",
+                                "icon" : "quote"
+                            },
+                            "name" : "John Gustavo",
+                            "position" :"Customer"
+        
+                        }
+                    ]
+        
+                }
+        
+            }
+        }
+    ],
+    "footer" : [
+        {
+            "atas" : [
+                {
+                    "judul" : "Taste.it",
+                    "decs" :"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove",
+                    "sosmed" : [
+                        {
+                            "icon" : "fa fa-twiter",
+                            "name" : "twiter",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                        },
+                        {
+                            "icon" : "fa fa-facebook",
+                            "name" : "facebook",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                        },
+                        {
+                            "icon" : "fa fa-instagram",
+                            "name" : "instagram",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                        }
+                    ]
+                },
+                {
+                    "judul" : "Open Hours",
+                    "day" :[
+                        {
+                            "text" : "monday",
+                            "waktu" : "9:00 - 24.00"
+                        },
+                        {
+                            "text" : "tuesday",
+                            "waktu" :"9:00 - 24.00"
+                        },
+                        {
+                            "text" : "wednesday",
+                            "waktu" : "9:00 - 24.00"
+                        },
+                        {
+                            "text" : "thursday",
+                            "waktu" : "9:00 - 24.00"
+                        },
+                        {
+                            "text" : "friday",
+                            "waktu" : "9:00 - 02.00"
+                        },
+                        {
+                            "text" : "saturday",
+                            "waktu" : "9:00 - 02.00"
+                        },
+                        {
+                            "text" : "sunday",
+                            "waktu" : "closed"
+                        }
+                    ]
+                },
+                {
+                    "judul" : "Instagram",
+                    "item" : [
+                        {
+                            "atas" : {
+                                "imgsatu" : "images/insta-1.jpg",
+                                "imgdua" : "images/insta-2.jpg",
+                                "imgtiga" : "images/insta-3.jpg"
+                            },
+                            "bawah" : {
+                                "imgsatu" : "images/insta-4.jpg",
+                                "imgdua" : "images/insta-5.jpg",
+                                "imgtiga" : "images/insta-6.jpg"
+                            }
+                        }
+                    ],
+                    "urlimg" : "https://preview.colorlib.com/theme/tasteit/index.html#"
+                },
+                {
+                    "judul" : "Newsletter",
+                    "decs" : "Far far away, behind the word mountains, far from the countries.",
+                    "placeholder" : "Enter email address",
+                    "button" : {
+                        "text" : "Subscribe"
+                    }
+
+        
+                }
+            ]
+        },
+        {
+            "bawah" : 
+            {
+                "text" : "Copyright ©",
+                "attribut" : "2022 All rights reserved | This template is made with",
+                "p" : "by",
+                "icon" : "heart",
+                "source" :{
+                    "text" : "Colorlib",
+                    "url" : "https://colorlib.com/"
+                }
+            }
+        }
+    ]
+}

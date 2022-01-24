@@ -1,0 +1,264 @@
+{
+    "header": [
+        {
+            "topbar": [
+                {
+                    "left" : [
+                        {
+                            "phone":{
+                                "text": "phone no:",
+                                "number": " +00 1234 567",
+                                "url": "https://preview.colorlib.com/theme/tasteit/#"
+                            },
+                            "email":{
+                                "text": "or email us:",
+                                "email": " emailsample@email.com",
+                                "url": "https://preview.colorlib.com/theme/tasteit/#"
+                            } 
+                        }
+                    ],
+                    "right" : {
+                        "date": {
+                            "tanggal": "Mon - Fri / 9:00-21:00, Sat - Sun / 10:00-20:00"
+                        },
+                        "socmed": [
+                            {
+                                "icon": "fa fa-facebook",
+                                "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                            },
+                            {
+                                "icon": "fa fa-twiter",
+                                "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                            },
+                            {
+                                "icon": "fa fa-instagram",
+                                "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                            },
+                            {
+                                "icon": "fa fa-dribbble",
+                                "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "mainbar" : [
+                {
+                    "mainkiri" : 
+                    {
+                        "judul" :{
+                            "text" : "taste.it" ,
+                            "url" : "https://preview.colorlib.com/theme/tasteit/index.html"
+                        }
+                    },
+                    "mainkanan" : [
+                        {
+                            "text" : "home",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/index.html"
+                        },
+                        {
+                            "text" : "about",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/about.html"
+                        },
+                        {
+                            "text" : "cheef",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/chef.html"
+                        },
+                        {
+                            "text" : "menu",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/menu.html"
+                        },
+                        {
+                            "text" : "revervation",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/reservation.html"
+                        },
+                        {
+                            "text" : "blog",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/blog.html"
+                        },
+                        {
+                            "text" : "contact",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/contact.html"
+                        }
+
+                    ]
+                
+                }
+            ],
+            "slider":
+                {
+                    "img" : "images/xbg_5.jpg.pagespeed.ic.Gns2DKGkM1.webp",
+                    "h1" :"Contact Us",
+                    "breadcrumb" :[
+                        {
+                            "text" : "HOME",
+                            "url"  : "https://preview.colorlib.com/theme/tasteit/index.html",
+                            "icon" : "chevron-right"
+                        },
+                        {
+                            "text" : "CONTACT US",
+                            "url" : null,
+                            "icon" : "chevron-right"
+                        }
+
+                    ]
+                }
+        }
+    ],
+    "body": [
+        {
+            "Contacts": {
+                    "title" : "Contact Information",
+                    "item" : [
+                        {
+                            "address": {
+                                "p" : "ADDRESS: 198 West 21th Street, Suite 721 New York NY 10016"
+                            },
+                            "phone": {
+                                "p" : "PHONE: + 1235 2355 98"
+                            },
+                            "email": {
+                                "p" : "EMAIL: info@yoursite.com"
+                            },
+                            "website": {
+                                "p" : "WEBSITE yoursite.com"
+                            }
+                    }
+                ]
+            },
+            "sectioncontact": [
+                {
+                    "map" : {
+                        "url" : "https://maps.gstatic.com/mapfiles/openhand_8_8.cur"
+                    },
+                    "contact" : {
+                        "title" : "Contact Us",
+                        "input" : [
+                            {
+                                "type" : "input",
+                                "placeholder" : "Your Name"
+                            },
+                            {
+                                "type" : "input",
+                                "placeholder" : "Your Email"
+                            },
+                            {
+                                "type" : "input",
+                                "placeholder" : "Subject"
+                            },
+                            {
+                                "type" : "input",
+                                "placeholder" : "Message"
+                            }
+                        ],
+                        "button" : {
+                            "type" : "button",
+                            "text" : "Send Message"
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "footer" : [
+        {
+            "atas" : [
+                {
+                    "judul" : "Taste.it",
+                    "decs" :"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove",
+                    "sosmed" : [
+                        {
+                            "icon" : "fa fa-twiter",
+                            "name" : "twiter",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                        },
+                        {
+                            "icon" : "fa fa-facebook",
+                            "name" : "facebook",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                        },
+                        {
+                            "icon" : "fa fa-instagram",
+                            "name" : "instagram",
+                            "url" : "https://preview.colorlib.com/theme/tasteit/#"
+                        }
+                    ]
+                },
+                {
+                    "judul" : "Open Hours",
+                    "day" :[
+                        {
+                            "text" : "monday",
+                            "waktu" : "9:00 - 24.00"
+                        },
+                        {
+                            "text" : "tuesday",
+                            "waktu" :"9:00 - 24.00"
+                        },
+                        {
+                            "text" : "wednesday",
+                            "waktu" : "9:00 - 24.00"
+                        },
+                        {
+                            "text" : "thursday",
+                            "waktu" : "9:00 - 24.00"
+                        },
+                        {
+                            "text" : "friday",
+                            "waktu" : "9:00 - 02.00"
+                        },
+                        {
+                            "text" : "saturday",
+                            "waktu" : "9:00 - 02.00"
+                        },
+                        {
+                            "text" : "sunday",
+                            "waktu" : "closed"
+                        }
+                    ]
+                },
+                {
+                    "judul" : "Instagram",
+                    "item" : [
+                        {
+                            "atas" : {
+                                "imgsatu" : "images/insta-1.jpg",
+                                "imgdua" : "images/insta-2.jpg",
+                                "imgtiga" : "images/insta-3.jpg"
+                            },
+                            "bawah" : {
+                                "imgsatu" : "images/insta-4.jpg",
+                                "imgdua" : "images/insta-5.jpg",
+                                "imgtiga" : "images/insta-6.jpg"
+                            }
+                        }
+                    ],
+                    "urlimg" : "https://preview.colorlib.com/theme/tasteit/index.html#"
+                },
+                {
+                    "judul" : "Newsletter",
+                    "decs" : "Far far away, behind the word mountains, far from the countries.",
+                    "placeholder" : "Enter email address",
+                    "button" : {
+                        "text" : "Subscribe"
+                    }
+
+        
+                }
+            ]
+        },
+        {
+            "bawah" : 
+            {
+                "text" : "Copyright ©",
+                "attribut" : "2022 All rights reserved | This template is made with",
+                "p" : "by",
+                "icon" : "heart",
+                "source" :{
+                    "text" : "Colorlib",
+                    "url" : "https://colorlib.com/"
+                }
+            }
+        }
+    ]
+}
